@@ -24,6 +24,5 @@ proguard/
 
 # Log Files
 *.log
-/idea
 /uexSocketMgr/uexSocketMgr.iml
-
+/.idea
